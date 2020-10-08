@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<!--<img class="profile-picture" src="profile.jpg">-->
+<img class="profile-picture" src="profile.jpg">
 Hi! I am a MS/Ph.D student in the Department of Artificial Intelligence at Korea University. My advisor is Prof. <a href="https://scholar.google.com/citations?hl=en&user=5yNbjSoAAAAJ&view_op=list_works">Sunghwan Lee</a>, and I am part of the <a href="http://pr.korea.ac.kr/">Pattern Recognition & Machine Learning Lab</a>. 
 
 Please contact me if you want to know more about me!  See CV for more information.
