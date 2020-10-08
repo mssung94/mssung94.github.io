@@ -3,14 +3,14 @@ url: "https://github.com/mssung94"
 baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./korea-logo.png"
 
 tracking_id: UA-138665784-2 #
 
 
 footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/mssung94"
+footer_text: "Minsuk Sung"
 
 sass:
     style: compressed
@@ -20,7 +20,11 @@ nav:
  - name: "About"
    link: ""
  - name: "CV"
-   link: "" #"Curriculum_Vitae_Chanjunpark.pdf"
+   link: ""
+ - name: "Blog"
+   link: "https://minsuksung-ai.tistory.com/"
+ - name: "Facebook"
+   link: "https://www.facebook.com/minsuk.stone.sung/"
 
 remote_theme: ankitsultana/researcher@gem
 
