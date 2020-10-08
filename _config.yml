@@ -3,7 +3,7 @@ url: "https://github.com/mssung94"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./korea-logo.png"
+ins_logo: "./korea_logo.png"
 
 tracking_id: UA-138665784-2 #
 
