@@ -1,5 +1,5 @@
 title: Minsuk Sung
-url: "https://github.com/mssung94"
+url: "https://github.com/minsuk-sung"
 baseurl: ""
 
 markdown: kramdown
@@ -9,7 +9,7 @@ tracking_id: UA-138665784-2 #
 
 
 footer: no
-footer_url: "https://github.com/mssung94"
+footer_url: "https://github.com/minsuk-sung"
 footer_text: "Minsuk Sung"
 
 sass:
@@ -17,10 +17,6 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: ""
- - name: "CV"
-   link: ""
  - name: "Blog"
    link: "https://minsuksung-ai.tistory.com/"
  - name: "Facebook"
