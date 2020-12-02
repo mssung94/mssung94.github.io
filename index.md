@@ -93,11 +93,12 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ## Honors & Awards
 
 |Year|Award|Organization|Place|  
-|:-----:|-------|----|----|  
+|:-----:|-------|----|----|
+|Dec. 2020|[제4회 빅데이터 페스티벌](https://programmers.co.kr/competitions/252/2020-miraeasset) | 미래에셋대우 | **우수상**(2등) |
 |Jun. 2020|[생체 광학 데이터 분석 AI 분석대회](https://dacon.io/competitions/official/235608/overview/) | DACON | 7등 / 696등 |  
 |Apr. 2020|[공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/) | DACON | 2등 / 1,081등 |  
-|Nov. 2019|[제3회 빅데이터 페스티벌](https://www.miraeassetdaewoo.com/mobilew/fest/mwUnivFestmain.jsp) | 미래에셋대우 | 금상 |  
-|Nov. 2019|[제7회 빅콘테스트](https://www.bigcontest.or.kr/introduce/history2019.php) | 과학기술부 / 한국정보화진흥원 | 최우수상 |  
+|Nov. 2019|[제3회 빅데이터 페스티벌](https://www.miraeassetdaewoo.com/mobilew/fest/mwUnivFestmain.jsp) | 미래에셋대우 | **금상** |  
+|Nov. 2019|[제7회 빅콘테스트](https://www.bigcontest.or.kr/introduce/history2019.php) | 과학기술부 / 한국정보화진흥원 | **최우수상** |  
 |Sep. 2019|우주전파재난 예측 AI 경진대회 | 국립전파연구원 | 본선 7등 |  
 |Mar. 2019|서울 하드웨어 해커톤 | 서울산업진흥원(SBA) | 3등 |  
 
