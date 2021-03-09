@@ -91,12 +91,15 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ---
 
 ## Lecture
-### Image Classification, Intel Korea (Nov. 2019 ~ Feb. 2020) [GitHub](https://github.com/minsuk-sung/intel-image-classification)
-- Classfiying image and modeling MobileNet based on TensorFlow/Keras
-- Converting TensorFlow pb file to OpenVINO xml and bin file
+### SK 인공지능 신입전사교육 조교, 패스트캠퍼스(FastCampus) (Jan. 2021)
+- Basic content of artificial intelligence and deep learning
 
 ### Object Detection, Intel Korea (Mar. 2020 ~ Current) [GitHub](https://github.com/gradient-lab/intel-object-detection)
 - Detecting objects using TensorFlow API
+- Converting TensorFlow pb file to OpenVINO xml and bin file
+
+### Image Classification, Intel Korea (Nov. 2019 ~ Feb. 2020) [GitHub](https://github.com/minsuk-sung/intel-image-classification)
+- Classfiying image and modeling MobileNet based on TensorFlow/Keras
 - Converting TensorFlow pb file to OpenVINO xml and bin file
 
 ---
@@ -111,6 +114,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 |Year|Award|Organization|Place|Reference|  
 |:-----:|-------|----|----|---|
+|Feb. 2021|[2021 구강계질환 의료영상 AI 경진 대회](http://aifactory.space/about/detail.do?postId=A000036) | 삼성서울병원 / 아주대학교병원 / 한국지능정보사회진흥원 | **3등** (팀 Aㅏ해보세요) | [Article](https://www.dailydental.co.kr/mobile/article.html?no=114298) |
 |Dec. 2020|[제4회 빅데이터 페스티벌](https://programmers.co.kr/competitions/252/2020-miraeasset) | 미래에셋대우 | **우수상** (팀 상타나HOXY) | [Article](https://www.mk.co.kr/news/stock/view/2020/12/1259993/) |
 |Jun. 2020|[생체 광학 데이터 분석 AI 분석대회](https://dacon.io/competitions/official/235608/overview/) | DACON | 7등 / 696등 |  |
 |Apr. 2020|[공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/) | DACON | 2등 / 1,081등 |  |
