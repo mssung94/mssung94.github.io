@@ -127,10 +127,10 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ## Patents
 
-|Year|Contents|  
-|:-----:|-------|  
-|2018|Optimization of Route Using Delivery Hub|  
-|2019|Prediction of Human Path using GAN|  
+|Year|Title of the Invention|Patent No.|
+|:-----:|-------|---|
+|2019|허브터미널 후보지역 선정방법|제 10-2019-0013100 호|
+|2019|Prediction of Human Path using GAN| - |
 
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
  <!-- Here is a horizontal rule --- -->
