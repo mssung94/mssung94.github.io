@@ -26,17 +26,9 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ---
 
 ## Research Interest
-- Machine Learning
 - Deep Learning
-    - Object Detection
-    - Bayesian Neural Network
-    - Uncertainty
+ - Computer Vision: Object detection
 - Reinforcement Learning
-    - Distributional Reinforcement Learning
-- Financial Engineering
-    - Optimized Trade Execution
-    - Stock Price Prediction using neural network
-    - Optimizing Portfolio using Reinforcement Learning
     
 ---
 
@@ -51,7 +43,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ## Activity
 ### Cogitive System Lab - Integrated Master-Ph.D. Student (Nov. 2020 - Current)
-- Human-like object detection
+- Highly cluttered object detection
 
 ### PRML Lab - Integrated Master-Ph.D. Student (Jan. 2020 - Oct. 2020)
 - Minimizing slippage/implemention shortfall on optimized trade execution using reinforcement learning
