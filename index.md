@@ -97,6 +97,9 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ---
 
 ## Work Experience
+### Mentor, UPSTAGE AI (Jan. 2021 ~ Jun. 2021)
+- Competition of math equation recognition 
+
 ### Intern, MIRAE ASSET DAEWOO.CO., LTD. (Jan. 2021 ~ Feb. 2021)
 - Comparative analysis of financial company app reputation based on natural language process
 
